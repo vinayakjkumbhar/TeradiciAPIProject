@@ -1,11 +1,10 @@
-package com.teradici.pages;
 
 public class TestClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("VXL");
-	}
+		System.out.println("Verixo");
+}
 
 }
